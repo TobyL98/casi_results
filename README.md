@@ -1,4 +1,4 @@
-# casi_results
+# Sequence Inferred Fingerprints (SIF) results from paper
 The results for the paper describing the 'sequence inferred fingerprint' python package to identify a species from ZooMS data. This data should be enough regenerate the results included in the paper. 
 
 ## Paper folders
