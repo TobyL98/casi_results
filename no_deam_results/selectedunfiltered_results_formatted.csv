@@ -1,0 +1,32 @@
+,Sample Name,Previous ID,SIF Top Species,SIF Top Genus,SIF Top Family,SIF Top Order,SIF Top Score,SIF Max Score,
+0,Otter_sampleresult.csv,Carnivora,Mustela putorius furo/Lutra lutra/Mustela lutreola/Mustela nigripes/Neogale vison/Mustela erminea,Mustela/Lutra/Neogale,Mustelidae,Carnivora,64,133,1
+1,Panthera_leo_sampleresult.csv,Carnivora,Panthera uncia/Panthera leo/Panthera onca,Panthera,Felidae,Carnivora,71,146,1
+2,Mustela_erminea_sampleresult.csv,Carnivora,Mustela putorius furo/Mustela lutreola/Mustela erminea/Mustela nigripes/Neogale vison,Mustela/Neogale,Mustelidae,Carnivora,52,126,1
+3,Eumetopias_jubatus_sampleresult.csv,Carnivora,Eumetopias jubatus/Callorhinus ursinus,Eumetopias/Callorhinus,Otariidae,Carnivora,161,283,1
+4,Vulpes_vulpes_sampleresult.csv,Carnivora,Vulpes lagopus/Vulpes vulpes,Vulpes,Canidae,Carnivora,91,172,1
+5,Canis_familiaris_sampleresult.csv,Carnivora,Nyctereutes procyonoides/Canis lupus dingo,Nyctereutes/Canis,Canidae,Carnivora,118,281,1
+6,Mirounga_leonina_sampleresult.csv,Carnivora,Mirounga leonina,Mirounga,Phocidae,Carnivora,169,293,1
+7,Hyaena_hyaena_sampleresult.csv,Carnivora,Panthera onca/Panthera uncia/Hyaena hyaena/Panthera leo,Panthera/Hyaena,Felidae/Hyaenidae,Carnivora,126,300,1
+8,Polecat_sampleresult.csv,Carnivora,Mustela lutreola/Neogale vison/Mustela nigripes/Mustela erminea/Mustela putorius furo,Mustela/Neogale,Mustelidae,Carnivora,67,146,1
+9,Halichoerus_gryphus_sampleresult.csv,Carnivora,Phoca vitulina,Phoca,Phocidae,Carnivora,68,145,1
+10,Felis_catus_sampleresult.csv,Carnivora,Panthera leo/Panthera uncia/Felis catus/Panthera onca,Panthera/Felis,Felidae,Carnivora,84,157,1
+11,Mirounga_angusstirostris_sampleresult.csv,Carnivora,Mirounga leonina/Mirounga angustirostris,Mirounga,Phocidae,Carnivora,157,284,1
+12,Moschus_sampleresult.csv,Artiodactyla,Moschus berezovskii,Moschus,Moschidae,Artiodactyla,120,224,1
+13,Hippopotamus_amphibius_sampleresult.csv,Artiodactyla,Hippopotamus amphibius kiboko,Hippopotamus,Hippopotamidae,Artiodactyla,84,154,1
+14,Ovis_aries_sampleresult.csv,Artiodactyla,Budorcas taxicolor,Budorcas,Bovidae,Artiodactyla,94,190,1
+15,Cervus_elaphus_sampleresult.csv,Artiodactyla,Cervus elaphus/Cervus canadensis/Dama dama,Cervus/Dama,Cervidae,Artiodactyla,135,254,1
+16,Capra_hircus_sampleresult.csv,Artiodactyla,Capra hircus,Capra,Bovidae,Artiodactyla,103,206,1
+17,Sus_scrofa_sampleresult.csv,Artiodactyla,Sus scrofa,Sus,Suidae,Artiodactyla,115,251,1
+18,Bubaus_bubalis_sampleresult.csv,Artiodactyla,Bubalus bubalis,Bubalus,Bovidae,Artiodactyla,115,231,1
+19,Bos_taurus_sampleresult.csv,Artiodactyla,Odocoileus virginianus texanus,Odocoileus,Cervidae,Artiodactyla,91,251,0
+20,Rattus_rattus_sampleresult.csv,Rodentia,Rattus rattus,Rattus,Muridae,Rodentia,95,152,1
+21,Mus_musculus_sampleresult.csv,Rodentia,Mus musculus,Mus,Muridae,Rodentia,65,132,1
+22,Apodemus_flavicollis_sampleresult.csv,Rodentia,Apodemus sylvaticus,Apodemus,Muridae,Rodentia,85,140,1
+23,Apodemus_sylvaticus_sampleresult.csv,Rodentia,Apodemus sylvaticus,Apodemus,Muridae,Rodentia,79,147,1
+24,Rattus_norvegicus_sampleresult.csv,Rodentia,Rattus rattus,Rattus,Muridae,Rodentia,72,128,1
+25,Microtus_agrestis_sampleresult.csv,Rodentia,Mus musculus,Mus,Muridae,Rodentia,65,132,1
+26,Beaver_sampleresult.csv,Rodentia,Castor canadensis,Castor,Castoridae,Rodentia,47,115,1
+27,Microtus_oeconomus_sampleresult.csv,Rodentia,Arvicola amphibius/Microtus fortis,Arvicola/Microtus,Cricetidae,Rodentia,112,216,1
+28,Arvicola_sampleresult.csv,Rodentia,Arvicola amphibius,Arvicola,Cricetidae,Rodentia,128,257,1
+29,Myodes_glareolus_sampleresult.csv,Rodentia,Arvicola amphibius/Chionomys nivalis,Arvicola/Chionomys,Cricetidae,Rodentia,92,195,1
+,,,,,,,,,29

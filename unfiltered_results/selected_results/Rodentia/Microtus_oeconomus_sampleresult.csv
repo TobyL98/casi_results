@@ -1,0 +1,212 @@
+,species,genus,subfamily,family,order,Match,Maximum Possible
+0,Microtus ochrogaster,Microtus,Arvicolinae,Cricetidae,Rodentia,148,204
+1,Apodemus sylvaticus,Apodemus,Murinae,Muridae,Rodentia,145,204
+2,Rattus norvegicus,Rattus,Murinae,Muridae,Rodentia,144,204
+3,Rattus rattus,Rattus,Murinae,Muridae,Rodentia,143,204
+4,Arvicola amphibius,Arvicola,Arvicolinae,Cricetidae,Rodentia,142,204
+5,Mus caroli,Mus,Murinae,Muridae,Rodentia,142,204
+6,Chionomys nivalis,Chionomys,Arvicolinae,Cricetidae,Rodentia,141,204
+7,Myodes glareolus,Myodes,Arvicolinae,Cricetidae,Rodentia,141,204
+8,Microtus fortis,Microtus,Arvicolinae,Cricetidae,Rodentia,141,204
+9,Microtus oregoni,Microtus,Arvicolinae,Cricetidae,Rodentia,140,204
+10,Cricetulus griseus,Cricetulus,Cricetinae,Cricetidae,Rodentia,139,204
+11,Mastomys coucha,Mastomys,Murinae,Muridae,Rodentia,139,204
+12,Meriones unguiculatus,Meriones,Gerbillinae,Muridae,Rodentia,137,204
+13,Psammomys obesus,Psammomys,Gerbillinae,Muridae,Rodentia,137,204
+14,Mesocricetus auratus,Mesocricetus,Cricetinae,Cricetidae,Rodentia,137,204
+15,Arvicanthis niloticus,Arvicanthis,Murinae,Muridae,Rodentia,137,204
+16,Grammomys surdaster,Grammomys,Murinae,Muridae,Rodentia,137,204
+17,Phodopus roborovskii,Phodopus,Cricetinae,Cricetidae,Rodentia,136,204
+18,Mus musculus,Mus,Murinae,Muridae,Rodentia,136,204
+19,Peromyscus maniculatus bairdii,Peromyscus,Neotominae,Cricetidae,Rodentia,134,204
+20,Peromyscus leucopus,Peromyscus,Neotominae,Cricetidae,Rodentia,134,204
+21,Peromyscus californicus insignis,Peromyscus,Neotominae,Cricetidae,Rodentia,134,204
+22,Ictidomys tridecemlineatus,Ictidomys,Xerinae,Sciuridae,Rodentia,133,204
+23,Urocitellus parryii,Urocitellus,Xerinae,Sciuridae,Rodentia,133,204
+24,Nannospalax galili,Nannospalax,Spalacinae,Spalacidae,Rodentia,131,204
+25,Marmota marmota marmota,Marmota,Xerinae,Sciuridae,Rodentia,130,204
+26,Marmota flaviventris,Marmota,Xerinae,Sciuridae,Rodentia,130,204
+27,Marmota monax,Marmota,Xerinae,Sciuridae,Rodentia,130,204
+28,Fukomys damarensis,Fukomys,,Bathyergidae,Rodentia,129,204
+29,Sciurus carolinensis,Sciurus,Sciurinae,Sciuridae,Rodentia,129,204
+30,Lepus europaeus,Lepus,,Leporidae,Lagomorpha,128,204
+31,Monodelphis domestica,Monodelphis,Didelphinae,Didelphidae,Didelphimorphia,128,204
+32,Panthera uncia,Panthera,Pantherinae,Felidae,Carnivora,127,204
+33,Panthera leo,Panthera,Pantherinae,Felidae,Carnivora,127,204
+34,Desmodus rotundus,Desmodus,Desmodontinae,Phyllostomidae,Chiroptera,127,204
+35,Panthera onca,Panthera,Pantherinae,Felidae,Carnivora,127,204
+36,Onychomys torridus,Onychomys,Neotominae,Cricetidae,Rodentia,127,204
+37,Dipodomys ordii,Dipodomys,Dipodomyinae,Heteromyidae,Rodentia,127,204
+38,Rhinopithecus roxellana,Rhinopithecus,Colobinae,Cercopithecidae,Primates,127,204
+39,Suricata suricatta,Suricata,,Herpestidae,Carnivora,127,204
+40,Lynx canadensis,Lynx,Felinae,Felidae,Carnivora,126,204
+41,Acinonyx jubatus,Acinonyx,Felinae,Felidae,Carnivora,126,204
+42,Phyllostomus hastatus,Phyllostomus,Phyllostominae,Phyllostomidae,Chiroptera,126,204
+43,Dipodomys spectabilis,Dipodomys,Dipodomyinae,Heteromyidae,Rodentia,126,204
+44,Prionailurus viverrinus,Prionailurus,Felinae,Felidae,Carnivora,126,204
+45,Lynx rufus,Lynx,Felinae,Felidae,Carnivora,126,204
+46,Felis catus,Felis,Felinae,Felidae,Carnivora,126,204
+47,Prionailurus bengalensis,Prionailurus,Felinae,Felidae,Carnivora,126,204
+48,Equus asinus,Equus,,Equidae,Perissodactyla,125,204
+49,Pteronotus parnellii mesoamericanus,Pteronotus,,Mormoopidae,Chiroptera,125,204
+50,Cynocephalus volans,Cynocephalus,,Cynocephalidae,Dermoptera,125,204
+51,Leopardus geoffroyi,Leopardus,Felinae,Felidae,Carnivora,125,204
+52,Panthera tigris,Panthera,Pantherinae,Felidae,Carnivora,125,204
+53,Artibeus jamaicensis,Artibeus,Stenodermatinae,Phyllostomidae,Chiroptera,125,204
+54,Phyllostomus discolor,Phyllostomus,Phyllostominae,Phyllostomidae,Chiroptera,125,204
+55,Suncus etruscus,Suncus,Crocidurinae,Soricidae,Eulipotyphla,125,204
+56,Oryctolagus cuniculus,Oryctolagus,,Leporidae,Lagomorpha,125,204
+57,Neofelis nebulosa,Neofelis,Pantherinae,Felidae,Carnivora,124,204
+58,Equus quagga,Equus,,Equidae,Perissodactyla,124,204
+59,Ochotona curzoniae,Ochotona,,Ochotonidae,Lagomorpha,124,204
+60,Rhinopithecus bieti,Rhinopithecus,Colobinae,Cercopithecidae,Primates,124,204
+61,Sturnira hondurensis,Sturnira,Stenodermatinae,Phyllostomidae,Chiroptera,124,204
+62,Panthera pardus,Panthera,Pantherinae,Felidae,Carnivora,124,204
+63,Odobenus rosmarus divergens,Odobenus,,Odobenidae,Carnivora,124,204
+64,Ochotona princeps,Ochotona,,Ochotonidae,Lagomorpha,123,204
+65,Rhinolophus sinicus,Rhinolophus,Rhinolophinae,Rhinolophidae,Chiroptera,123,204
+66,Trachypithecus francoisi,Trachypithecus,Colobinae,Cercopithecidae,Primates,123,204
+67,Galeopterus variegatus,Galeopterus,,Cynocephalidae,Dermoptera,123,204
+68,Perognathus longimembris pacificus,Perognathus,Perognathinae,Heteromyidae,Rodentia,123,204
+69,Diceros bicornis minor,Diceros,,Rhinocerotidae,Perissodactyla,123,204
+70,Sorex fumeus,Sorex,Soricinae,Soricidae,Eulipotyphla,123,204
+71,Acomys russatus,Acomys,Deomyinae,Muridae,Rodentia,122,204
+72,Microcebus murinus,Microcebus,,Cheirogaleidae,Primates,122,204
+73,Hyaena hyaena,Hyaena,,Hyaenidae,Carnivora,122,204
+74,Equus caballus,Equus,,Equidae,Perissodactyla,122,204
+75,Cercocebus atys,Cercocebus,Cercopithecinae,Cercopithecidae,Primates,121,204
+76,Meles meles,Meles,Melinae,Mustelidae,Carnivora,121,204
+77,Chinchilla lanigera,Chinchilla,,Chinchillidae,Rodentia,121,204
+78,Theropithecus gelada,Theropithecus,Cercopithecinae,Cercopithecidae,Primates,121,204
+79,Mandrillus leucophaeus,Mandrillus,Cercopithecinae,Cercopithecidae,Primates,121,204
+80,Sus scrofa domesticus,Sus,,Suidae,Artiodactyla,121,204
+81,Papio anubis,Papio,Cercopithecinae,Cercopithecidae,Primates,121,204
+82,Talpa occidentalis,Talpa,,Talpidae,Eulipotyphla,121,204
+83,Piliocolobus tephrosceles,Piliocolobus,Colobinae,Cercopithecidae,Primates,120,204
+84,Mustela erminea,Mustela,Mustelinae,Mustelidae,Carnivora,120,204
+85,Mustela putorius furo,Mustela,Mustelinae,Mustelidae,Carnivora,120,204
+86,Dromiciops gliroides,Dromiciops,,Microbiotheriidae,Microbiotheria,120,204
+87,Choloepus didactylus,Choloepus,,Megalonychidae,Pilosa,120,204
+88,Jaculus jaculus,Jaculus,Dipodinae,Dipodidae,Rodentia,120,204
+89,Macaca mulatta,Macaca,Cercopithecinae,Cercopithecidae,Primates,120,204
+90,Callithrix jacchus,Callithrix,Callitrichinae,Cebidae,Primates,120,204
+91,Macaca thibetana thibetana,Macaca,Cercopithecinae,Cercopithecidae,Primates,120,204
+92,Macaca fascicularis,Macaca,Cercopithecinae,Cercopithecidae,Primates,120,204
+93,Orycteropus afer afer,Orycteropus,,Orycteropodidae,Tubulidentata,120,204
+94,Ursus arctos,Ursus,,Ursidae,Carnivora,120,204
+95,Lemur catta,Lemur,,Lemuridae,Primates,120,204
+96,Mustela lutreola,Mustela,Mustelinae,Mustelidae,Carnivora,120,204
+97,Neogale vison,Neogale,Mustelinae,Mustelidae,Carnivora,120,204
+98,Rousettus aegyptiacus,Rousettus,Rousettinae,Pteropodidae,Chiroptera,120,204
+99,Propithecus coquereli,Propithecus,,Indriidae,Primates,120,204
+100,Ursus americanus,Ursus,,Ursidae,Carnivora,120,204
+101,Octodon degus,Octodon,,Octodontidae,Rodentia,120,204
+102,Sus scrofa,Sus,,Suidae,Artiodactyla,120,204
+103,Ursus maritimus,Ursus,,Ursidae,Carnivora,120,204
+104,Mustela nigripes,Mustela,Mustelinae,Mustelidae,Carnivora,120,204
+105,Balaenoptera ricei,Balaenoptera,,Balaenopteridae,Artiodactyla,119,204
+106,Lutra lutra,Lutra,Lutrinae,Mustelidae,Carnivora,119,204
+107,Tupaia chinensis,Tupaia,,Tupaiidae,Scandentia,119,204
+108,Mirounga angustirostris,Mirounga,Monachinae,Phocidae,Carnivora,119,204
+109,Condylura cristata,Condylura,,Talpidae,Eulipotyphla,119,204
+110,Pongo pygmaeus,Pongo,Ponginae,Hominidae,Primates,119,204
+111,Ailuropoda melanoleuca,Ailuropoda,,Ursidae,Carnivora,119,204
+112,Rhinolophus ferrumequinum,Rhinolophus,Rhinolophinae,Rhinolophidae,Chiroptera,119,204
+113,Manis javanica,Manis,,Manidae,Pholidota,119,204
+114,Budorcas taxicolor,Budorcas,Caprinae,Bovidae,Artiodactyla,118,204
+115,Callorhinus ursinus,Callorhinus,,Otariidae,Carnivora,118,204
+116,Mirounga leonina,Mirounga,Monachinae,Phocidae,Carnivora,118,204
+117,Zalophus californianus,Zalophus,,Otariidae,Carnivora,118,204
+118,Macaca nemestrina,Macaca,Cercopithecinae,Cercopithecidae,Primates,118,204
+119,Eumetopias jubatus,Eumetopias,,Otariidae,Carnivora,118,204
+120,Sorex araneus,Sorex,Soricinae,Soricidae,Eulipotyphla,118,204
+121,Symphalangus syndactylus,Symphalangus,,Hylobatidae,Primates,118,204
+122,Colobus angolensis palliatus,Colobus,Colobinae,Cercopithecidae,Primates,118,204
+123,Pongo abelii,Pongo,Ponginae,Hominidae,Primates,117,204
+124,Lontra canadensis,Lontra,Lutrinae,Mustelidae,Carnivora,117,204
+125,Castor canadensis,Castor,,Castoridae,Rodentia,117,204
+126,Nomascus leucogenys,Nomascus,,Hylobatidae,Primates,117,204
+127,Hylobates moloch,Hylobates,,Hylobatidae,Primates,117,204
+128,Balaenoptera musculus,Balaenoptera,,Balaenopteridae,Artiodactyla,116,204
+129,Carlito syrichta,Carlito,,Tarsiidae,Primates,116,204
+130,Erinaceus europaeus,Erinaceus,Erinaceinae,Erinaceidae,Eulipotyphla,116,204
+131,Otolemur garnettii,Otolemur,,Galagidae,Primates,116,204
+132,Chlorocebus sabaeus,Chlorocebus,Cercopithecinae,Cercopithecidae,Primates,116,204
+133,Loxodonta africana,Loxodonta,,Elephantidae,Proboscidea,116,204
+134,Pan paniscus,Pan,Homininae,Hominidae,Primates,116,204
+135,Camelus dromedarius,Camelus,,Camelidae,Artiodactyla,116,204
+136,Phacochoerus africanus,Phacochoerus,,Suidae,Artiodactyla,116,204
+137,Pan troglodytes,Pan,Homininae,Hominidae,Primates,116,204
+138,Nyctereutes procyonoides,Nyctereutes,,Canidae,Carnivora,115,204
+139,Balaenoptera acutorostrata,Balaenoptera,,Balaenopteridae,Artiodactyla,115,204
+140,Sarcophilus harrisii,Sarcophilus,,Dasyuridae,Dasyuromorphia,115,204
+141,Gorilla gorilla gorilla,Gorilla,Homininae,Hominidae,Primates,115,204
+142,Ovis aries,Ovis,Caprinae,Bovidae,Artiodactyla,115,204
+143,Homo sapiens,Homo,Homininae,Hominidae,Primates,115,204
+144,Cebus imitator,Cebus,Cebinae,Cebidae,Primates,115,204
+145,Manis pentadactyla,Manis,,Manidae,Pholidota,115,204
+146,Bubalus bubalis,Bubalus,Bovinae,Bovidae,Artiodactyla,115,204
+147,Saimiri boliviensis boliviensis,Saimiri,Saimiriinae,Cebidae,Primates,115,204
+148,Bos javanicus,Bos,Bovinae,Bovidae,Artiodactyla,114,204
+149,Monodon monoceros,Monodon,,Monodontidae,Artiodactyla,114,204
+150,Bos taurus,Bos,Bovinae,Bovidae,Artiodactyla,114,204
+151,Camelus ferus,Camelus,,Camelidae,Artiodactyla,114,204
+152,Bison bison bison,Bison,Bovinae,Bovidae,Artiodactyla,114,204
+153,Elephas maximus indicus,Elephas,,Elephantidae,Proboscidea,114,204
+154,Trichechus manatus latirostris,Trichechus,,Trichechidae,Sirenia,114,204
+155,Moschus berezovskii,Moschus,,Moschidae,Artiodactyla,114,204
+156,Antechinus flavipes,Antechinus,,Dasyuridae,Dasyuromorphia,114,204
+157,Bos indicus x Bos taurus,Bos,Bovinae,Bovidae,Artiodactyla,114,204
+158,Camelus bactrianus,Camelus,,Camelidae,Artiodactyla,114,204
+159,Canis lupus dingo,Canis,,Canidae,Carnivora,114,204
+160,Echinops telfairi,Echinops,Tenrecinae,Tenrecidae,,113,204
+161,Capra hircus,Capra,Caprinae,Bovidae,Artiodactyla,113,204
+162,Bubalus kerabau,Bubalus,Bovinae,Bovidae,Artiodactyla,113,204
+163,Bos mutus,Bos,Bovinae,Bovidae,Artiodactyla,113,204
+164,Sapajus apella,Sapajus,Cebinae,Cebidae,Primates,113,204
+165,Aotus nancymaae,Aotus,,Aotidae,Primates,113,204
+166,Neomonachus schauinslandi,Neomonachus,Monachinae,Phocidae,Carnivora,113,204
+167,Hipposideros armiger,Hipposideros,,Hipposideridae,Chiroptera,113,204
+168,Oryx dammah,Oryx,Hippotraginae,Bovidae,Artiodactyla,113,204
+169,Delphinapterus leucas,Delphinapterus,,Monodontidae,Artiodactyla,113,204
+170,Nycticebus coucang,Nycticebus,,Lorisidae,Primates,112,204
+171,Odocoileus virginianus texanus,Odocoileus,Odocoileinae,Cervidae,Artiodactyla,112,204
+172,Heterocephalus glaber,Heterocephalus,,Bathyergidae,Rodentia,112,204
+173,Canis lupus familiaris,Canis,,Canidae,Carnivora,112,204
+174,Pteropus giganteus,Pteropus,Pteropodinae,Pteropodidae,Chiroptera,112,204
+175,Vicugna pacos,Vicugna,,Camelidae,Artiodactyla,112,204
+176,Hippopotamus amphibius kiboko,Hippopotamus,,Hippopotamidae,Artiodactyla,112,204
+177,Dama dama,Dama,Cervinae,Cervidae,Artiodactyla,112,204
+178,Phoca vitulina,Phoca,Phocinae,Phocidae,Carnivora,112,204
+179,Cervus canadensis,Cervus,Cervinae,Cervidae,Artiodactyla,112,204
+180,Trichosurus vulpecula,Trichosurus,,Phalangeridae,Diprotodontia,112,204
+181,Cervus elaphus,Cervus,Cervinae,Cervidae,Artiodactyla,112,204
+182,Halichoerus grypus,Halichoerus,Phocinae,Phocidae,Carnivora,112,204
+183,Vulpes lagopus,Vulpes,,Canidae,Carnivora,111,204
+184,Vulpes vulpes,Vulpes,,Canidae,Carnivora,111,204
+185,Cavia porcellus,Cavia,,Caviidae,Rodentia,111,204
+186,Bos indicus,Bos,Bovinae,Bovidae,Artiodactyla,111,204
+187,Dasypus novemcinctus,Dasypus,,Dasypodidae,Cingulata,111,204
+188,Eubalaena glacialis,Eubalaena,,Balaenidae,Artiodactyla,110,204
+189,Kogia breviceps,Kogia,,Physeteridae,Artiodactyla,110,204
+190,Neophocaena asiaeorientalis,Neophocaena,,Phocoenidae,Artiodactyla,109,204
+191,Phocoena sinus,Phocoena,,Phocoenidae,Artiodactyla,109,204
+192,Physeter catodon,Physeter,,Physeteridae,Artiodactyla,108,204
+193,Ornithorhynchus anatinus,Ornithorhynchus,,Ornithorhynchidae,Monotremata,106,204
+194,Molossus molossus,Molossus,,Molossidae,Chiroptera,106,204
+195,Miniopterus natalensis,Miniopterus,,Miniopteridae,Chiroptera,106,204
+196,Vombatus ursinus,Vombatus,,Vombatidae,Diprotodontia,105,204
+197,Tachyglossus aculeatus,Tachyglossus,,Tachyglossidae,Monotremata,105,204
+198,Phascolarctos cinereus,Phascolarctos,,Phascolarctidae,Diprotodontia,105,204
+199,Mesoplodon densirostris,Mesoplodon,,Ziphiidae,Artiodactyla,105,204
+200,Orcinus orca,Orcinus,,Delphinidae,Artiodactyla,104,204
+201,Lagenorhynchus obliquidens,Lagenorhynchus,,Delphinidae,Artiodactyla,103,204
+202,Lagenorhynchus albirostris,Lagenorhynchus,,Delphinidae,Artiodactyla,103,204
+203,Myotis daubentonii,Myotis,,Vespertilionidae,Chiroptera,103,204
+204,Myotis myotis,Myotis,,Vespertilionidae,Chiroptera,103,204
+205,Myotis lucifugus,Myotis,,Vespertilionidae,Chiroptera,103,204
+206,Pipistrellus kuhlii,Pipistrellus,,Vespertilionidae,Chiroptera,103,204
+207,Tursiops truncatus,Tursiops,,Delphinidae,Artiodactyla,102,204
+208,Globicephala melas,Globicephala,,Delphinidae,Artiodactyla,102,204
+209,Delphinus delphis,Delphinus,,Delphinidae,Artiodactyla,102,204
+210,Eptesicus fuscus,Eptesicus,,Vespertilionidae,Chiroptera,99,204

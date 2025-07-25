@@ -1,0 +1,31 @@
+,Sample Name,Previous ID,SIF Top Species,SIF Top Genus,SIF Top Family,SIF Top Order,SIF Top Score,SIF Max Score
+0,Otter_sampleresult.csv,Carnivora,Diceros bicornis minor,Diceros,Rhinocerotidae,Perissodactyla,87,133
+1,Panthera_leo_sampleresult.csv,Carnivora,Panthera leo/Panthera onca/Panthera uncia,Panthera,Felidae,Carnivora,94,146
+2,Mustela_erminea_sampleresult.csv,Carnivora,Ailuropoda melanoleuca/Mustela putorius furo/Ursus maritimus/Mustela nigripes/Neogale vison/Mustela lutreola/Ursus arctos/Ursus americanus/Mustela erminea,Ailuropoda/Mustela/Ursus/Neogale,Ursidae/Mustelidae,Carnivora,68,125
+3,Eumetopias_jubatus_sampleresult.csv,Carnivora,Lutra lutra,Lutra,Mustelidae,Carnivora,198,261
+4,Vulpes_vulpes_sampleresult.csv,Carnivora,Equus caballus/Equus asinus/Equus quagga,Equus,Equidae,Perissodactyla,132,168
+5,Canis_familiaris_sampleresult.csv,Carnivora,Orycteropus afer afer/Equus asinus/Equus caballus,Orycteropus/Equus,Orycteropodidae/Equidae,Tubulidentata/Perissodactyla,189,277
+6,Mirounga_leonina_sampleresult.csv,Carnivora,Odobenus rosmarus divergens,Odobenus,Odobenidae,Carnivora,209,264
+7,Hyaena_hyaena_sampleresult.csv,Carnivora,Equus asinus,Equus,Equidae,Perissodactyla,213,300
+8,Polecat_sampleresult.csv,Carnivora,Sorex araneus,Sorex,Soricidae,Eulipotyphla,89,146
+9,Halichoerus_gryphus_sampleresult.csv,Carnivora,Phoca vitulina,Phoca,Phocidae,Carnivora,99,145
+10,Felis_catus_sampleresult.csv,Carnivora,Felis catus,Felis,Felidae,Carnivora,117,157
+11,Mirounga_angusstirostris_sampleresult.csv,Carnivora,Mirounga angustirostris,Mirounga,Phocidae,Carnivora,204,277
+12,Moschus_sampleresult.csv,Artiodactyla,Moschus berezovskii,Moschus,Moschidae,Artiodactyla,144,183
+13,Hippopotamus_amphibius_sampleresult.csv,Artiodactyla,Hippopotamus amphibius kiboko,Hippopotamus,Hippopotamidae,Artiodactyla,112,153
+14,Ovis_aries_sampleresult.csv,Artiodactyla,Ovis aries/Budorcas taxicolor/Moschus berezovskii,Ovis/Budorcas/Moschus,Bovidae/Moschidae,Artiodactyla,145,188
+15,Cervus_elaphus_sampleresult.csv,Artiodactyla,Cervus canadensis/Cervus elaphus/Odocoileus virginianus texanus,Cervus/Odocoileus,Cervidae,Artiodactyla,195,252
+16,Sus_scrofa_sampleresult.csv,Artiodactyla,Sus scrofa domesticus,Sus,Suidae,Artiodactyla,179,250
+17,Capra_hircus_sampleresult1.csv,Artiodactyla,Equus asinus,Equus,Equidae,Perissodactyla,148,204
+18,Bubaus_bubalis_sampleresult.csv,Artiodactyla,Bubalus bubalis/Bubalus kerabau,Bubalus,Bovidae,Artiodactyla,168,231
+19,Bos_taurus_sampleresult.csv,Artiodactyla,Cervus canadensis/Cervus elaphus,Cervus,Cervidae,Artiodactyla,168,251
+20,Rattus_rattus_sampleresult.csv,Rodentia,Arvicanthis niloticus,Arvicanthis,Muridae,Rodentia,125,151
+21,Mus_musculus_sampleresult.csv,Rodentia,Arvicanthis niloticus/Mus musculus,Arvicanthis/Mus,Muridae,Rodentia,85,125
+22,Apodemus_flavicollis_sampleresult.csv,Rodentia,Apodemus sylvaticus,Apodemus,Muridae,Rodentia,104,133
+23,Apodemus_sylvaticus_sampleresult.csv,Rodentia,Apodemus sylvaticus,Apodemus,Muridae,Rodentia,93,141
+24,Rattus_norvegicus_sampleresult.csv,Rodentia,Rattus rattus,Rattus,Muridae,Rodentia,101,124
+25,Microtus_agrestis_sampleresult.csv,Rodentia,Arvicanthis niloticus/Mus musculus,Arvicanthis/Mus,Muridae,Rodentia,85,125
+26,Beaver_sampleresult.csv,Rodentia,Equus asinus/Equus caballus/Equus quagga,Equus,Equidae,Perissodactyla,62,115
+27,Microtus_oeconomus_sampleresult.csv,Rodentia,Microtus ochrogaster,Microtus,Cricetidae,Rodentia,148,204
+28,Arvicola_sampleresult.csv,Rodentia,Arvicola amphibius,Arvicola,Cricetidae,Rodentia,192,254
+29,Myodes_glareolus_sampleresult.csv,Rodentia,Arvicola amphibius,Arvicola,Cricetidae,Rodentia,128,192
